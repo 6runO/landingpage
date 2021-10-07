@@ -1,0 +1,16 @@
+.btn-shape {
+  /* font-family: Georgia, 'Times New Roman', Times, serif ; */
+  /* border: 1px solid black; */
+  color: black;
+  background-color: #FBFF00;
+  padding: 9px 20px;
+  font-weight: 400;
+  border-radius: 5px;
+}
+
+
+.btn-shape:hover {
+  color: black;
+  background-color: #55DDE0;
+  font-weight: 400;
+}
